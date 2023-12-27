@@ -1,0 +1,19 @@
+@import 'fonts.css';
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --main-color-dark: #253347;
+  --main-color-light: #fff;
+  --accent-color: #345ff6;
+  --secondary-color: #5e6e85;
+  --tertiary-color: #d8e2e7;
+}
+

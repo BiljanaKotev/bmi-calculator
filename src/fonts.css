@@ -1,0 +1,19 @@
+/* inter-regular */
+
+@font-face {
+  font-family: 'InterRegular';
+  src: url(../src/assets/fonts/static/Inter-Regular.ttf);
+}
+
+/* inter-semi-bold */
+
+@font-face {
+  font-family: 'InterSemiBold';
+  src: url(../src/assets/fonts/static/Inter-SemiBold.ttf);
+}
+
+/* inter-variable-font */
+@font-face {
+  font-family: 'InterVariable';
+  src: url(../src/assets/fonts/Inter-VariableFont_slnt\wght.ttf);
+}
